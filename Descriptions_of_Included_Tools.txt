@@ -1,0 +1,12 @@
+
+H20EZE: Easy BIOS Editor that helps edit binaries in the BIOS,
+including Option ROMs, driver binaries, logos, and Setup values.
+
+H20FFT: Firmware Flash Tool assists in quickly and easily
+updates flash devices with new BIOS firmware.
+
+H20SDE: SMBIOS Data Editor that facilitates easy modification of
+any SMBIOS (DMI) field by GUI and Command Line, with support for
+a wide variety of OS environments.
+
+H20UVE: UEFI Variable Editor
